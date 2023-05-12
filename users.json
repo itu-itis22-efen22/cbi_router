@@ -1,0 +1,14 @@
+{
+    "email": "nne@gmail.com",
+    "name": "Nida Nur",
+    "password": "12345",
+    "permissions": [
+        1,
+        2,
+        3
+    ],
+    "surname": "Efe",
+    "token": "ASgYcIWUrWgYEbmqbPDNkwloMLgjVapNYDzbIWovgPYpsiXQJrLFiEmuLGcPSXVfaBKYdMsFwPmRIPPOYzoLKgXDdXauRjmTbkTa",
+    "tokenExpireDate": "Fri, 12 May 2023 01:49:49 GMT",
+    "username": "nnefe"
+}

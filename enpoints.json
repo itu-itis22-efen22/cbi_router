@@ -1,0 +1,15 @@
+{
+    "slab/dht11":{
+        "enpoint":"5004/dht11",
+        "permissions":[3, 5]
+    },
+    "api/products":{
+        "enpoint":"5204/api/products",
+        "permissions":[1]
+    },
+    "deneme": {
+        "enpoint": "deneme/deneme",
+        "permissions": []
+    }
+}
+    
